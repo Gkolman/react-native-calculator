@@ -3,7 +3,7 @@
     simple calculator I made in rect-native and tested with Android Studio for fun!
 
 ### Tools used:
-    React-native & CSS, Android Studio, Expo CLI
+    React-native, CSS, Android Studio, Expo CLI
 
   ![](/images/calculator.gif)
 
