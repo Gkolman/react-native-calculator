@@ -18,10 +18,10 @@
 #### Then cd into the folder via
     cd testProject
 
-#### then start the application by running
+#### Then start the application by running
     npm start
 
-#### Note: scan the QR code with the expo mobile app to test on your phone or if you want to test on your computer remember you need either Android Studio or Xcode.
+#### Note: Scan the QR code with the expo mobile app to test on your phone or if you want to test on your computer remember you need either Android Studio or Xcode.
 
  ### Improvements I would make;
      * More styling
